@@ -1,56 +1,38 @@
-# 🍕 Pizzaguidao
+# 🍕 Pizzaguidão
 
-![Status](https://img.shields.io/badge/status-online-brightgreen?style=flat-square)
-![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)
-![Made with](https://img.shields.io/badge/made%20with-JavaScript-yellow?style=flat-square)
-![Play Now](https://img.shields.io/badge/play-online-blueviolet?style=flat-square)
+**Pizzaguidão** é um jogo no estilo **Roguelike** em que você deve atravessar obstáculos e escapar de mendigos para devolver uma pizza ao professor Renzo! 🍕🚴‍♂️
 
-**Pizzaguidao** é um jogo arcade maluco onde você pilota uma pizza de guidão em alta velocidade! Desvie de obstáculos, colete ingredientes e tente chegar o mais longe possível com equilíbrio e diversão! 🍕🚴‍♂️
+Este projeto foi desenvolvido durante o **CPG**, realizado no **INATEL**, com um prazo de apenas **36 horas** — e o mais incrível: ninguém da equipe tinha experiência prévia com desenvolvimento de jogos! 🎮💥
 
-👉 **[Jogue agora no navegador](https://stenishh.github.io/Pizzaguidao/)**
+👉 **[Clique aqui para jogar agora](https://stenishh.github.io/Pizzaguidao/)**
 
 ---
 
 ## 🕹️ Como Jogar
 
-- ▶️ Use as **setas** ou **WASD** para controlar a pizza.
-- ❌ Evite bater nos obstáculos!
-- 🍄 Pegue ingredientes para aumentar sua pontuação.
-- 🏆 Supere seus próprios recordes!
+- 🔼 Use as **setas do teclado** para controlar a pizza motorizada.
+- 🕳️ Evite cair nos buracos e desvie dos mendigos!
+- 🍕 Colete pizzas no caminho e devolva ao **professor Renzo**.
+- 🎬 Após a cutscene, **pressione a barra de espaço** para começar o jogo.  
+  > *Sim... esquecemos de colocar essa dica no jogo — afinal, foi nosso primeiro! 😅*
 
 ---
 
-## 📸 Captura de Tela
+## 🧠 Sobre o Projeto
 
-> *(Insira aqui uma imagem do gameplay, se desejar)*  
-> _Você pode usar `![screenshot](./screenshot.png)` para adicionar uma imagem._
-
----
-
-## 🚀 Tecnologias Usadas
-
-- 🔹 HTML5
-- 🔸 CSS3
-- ⚡ JavaScript
-- 🌍 GitHub Pages (deploy)
+> “Nos jogamos de cabeça no desconhecido. Em 36 horas, aprendemos, erramos e criamos algo do zero. Essa é a essência do Hackathon — e o Pizzaguidão nasceu dessa ousadia.” 🚀
 
 ---
 
-## 💡 Contribuindo
+## 🚀 Tecnologias Utilizadas
 
-Contribuições são bem-vindas! Sinta-se à vontade para abrir uma [issue](https://github.com/stenishh/Pizzaguidao/issues) ou enviar um [pull request](https://github.com/stenishh/Pizzaguidao/pulls) com melhorias, correções de bugs ou novas ideias.
-
----
-
-## 📄 Licença
-
-Este projeto está licenciado sob a licença MIT.  
-Veja o arquivo `LICENSE` para mais informações.
+- 🔹 **HTML5** – Estrutura do jogo
+- 🔸 **CSS3** – Estilização
+- ⚡ **JavaScript** – Lógica do game e interações
+- 🌍 **GitHub Pages** – Hospedagem e deploy do jogo
 
 ---
 
-## 🌐 Link Rápido
 
-🔗 **[Clique aqui para jogar Pizzaguidao](https://stenishh.github.io/Pizzaguidao/)**
 
-Divirta-se! 🍕🔥  
+Desenvolvido com pizza, energetico e poucas horas de sono. 😴🍕  
