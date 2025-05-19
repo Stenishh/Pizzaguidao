@@ -1,10 +1,5 @@
 # 🍕 Pizzaguidão
 
-![Status](https://img.shields.io/badge/status-online-brightgreen?style=flat-square)
-![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)
-![Made with](https://img.shields.io/badge/made%20with-JavaScript-yellow?style=flat-square)
-![Play Now](https://img.shields.io/badge/play-online-blueviolet?style=flat-square)
-
 **Pizzaguidão** é um jogo no estilo **Roguelike** em que você deve atravessar obstáculos e escapar de mendigos para devolver uma pizza ao professor Renzo! 🍕🚴‍♂️
 
 Este projeto foi desenvolvido durante o **CPG**, realizado no **INATEL**, com um prazo de apenas **36 horas** — e o mais incrível: ninguém da equipe tinha experiência prévia com desenvolvimento de jogos! 🎮💥
