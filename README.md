@@ -37,13 +37,4 @@ Este projeto foi desenvolvido durante o **CPG**, realizado no **INATEL**, com um
 
 ---
 
-## 🚀 Tecnologias Utilizadas
-
-- 🔹 **HTML5** – Estrutura do jogo
-- 🔸 **CSS3** – Estilização
-- ⚡ **JavaScript** – Lógica do game e interações
-- 🌍 **GitHub Pages** – Hospedagem e deploy do jogo
-
----
-
 Desenvolvido com pizza, energético e poucas horas de sono. 😴🍕
